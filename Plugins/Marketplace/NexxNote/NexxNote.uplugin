@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NexxNote",
+	"Description": "A lightweight yet powerful plugin for drawing and taking freeform notes directly inside the Blueprint editor. Ideal for visual thinkers and complex logic designers.",
+	"Category": "Editor",
+	"CreatedBy": "Onur Altuntaş [ShaNexx]",
+	"CreatedByURL": "https://www.instagram.com/shanextagram/",
+	"DocsURL": "https://github.com/ShaNexx546/NexxNoteWiki/wiki/NexxNote-%E2%80%90-Documentation",
+	"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/a445ccab-a13f-458d-989a-63c7466ef7d8",
+	"SupportURL": "https://github.com/ShaNexx546/NexxNoteWiki/wiki/NexxNote-%E2%80%90-Documentation",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "NexxNote",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
